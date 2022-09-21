@@ -6,5 +6,14 @@
     <description>Recent content on Hello Hugo World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>https://example.org/helloworld/</link>
+      <pubDate>Wed, 21 Sep 2022 14:04:51 +0900</pubDate>
+      
+      <guid>https://example.org/helloworld/</guid>
+      <description>Hugo 를 이용해서 처음으로 작성한 글입니다. 아래 블로그에서 큰 도움을 얻었습니다. IALY&amp;rsquo;s BLOG</description>
+    </item>
+    
   </channel>
 </rss>
